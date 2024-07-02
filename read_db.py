@@ -25,5 +25,12 @@ llm = GPTConfig().create_chat()
 
 
 chain = SQLDatabaseChain.from_llm(llm,db,verbose=True)
-response = chain.run("List the total sales per country. Which country's customers spent the most?")
+response = chain.run("List the total sales per all countries. ")
+# "Describe the schema of the playlist table"
+# "List the total sales per country. Which country's customers spent the most?"
+# "Describe the playlisttrack table"
+# "How many employees are there"
+# "How many tracks are there in the album with ID 5?""
+# "List all artists."
+
 print(response)
