@@ -1,5 +1,6 @@
-# Informações do SQLLite retiradas de https://www.youtube.com/watch?v=dFsMjaTt-VU
-# Projeto rodou através de https://github.com/skill-curb/Text-To-SQL-LLM-App-with-MYSQL-SteamLit-LangChain-using-Google-Palm/tree/main
+Informações do SQLite retiradas [deste vídeo.](https://www.youtube.com/watch?v=dFsMjaTt-VU)
+
+Projeto rodou com a ajuda [deste repositório.](https://github.com/skill-curb/Text-To-SQL-LLM-App-with-MYSQL-SteamLit-LangChain-using-Google-Palm/tree/main)
 
 # Acessar o terminal do Sqlite
 
